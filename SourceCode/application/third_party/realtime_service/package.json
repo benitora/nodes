@@ -1,0 +1,11 @@
+{
+  "name": "silentclass",
+  "version": "0.0.0",
+  "description": "Tutorial for newbie",
+  "private": true,
+  "dependencies": {
+    "socket.io": "latest",
+    "express": "latest"
+  },
+  "author": "Anupong Julmusik"
+}
